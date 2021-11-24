@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          dimag la bhosda
         </a>
       </header>
     </div>
